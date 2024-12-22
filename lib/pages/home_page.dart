@@ -38,6 +38,7 @@ class _HomePageState extends State<HomePage> {
 
   Widget _googleSignInButton() {
     return Center(
+
       child: SizedBox(
         height: 50,
         child: SignInButton(
